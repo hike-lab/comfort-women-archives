@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:cc="http://creativecommons.org/ns#"
+>
+
+<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1">
+    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
+    <rdfs:label>공공누리 제1유형</rdfs:label>
+    <rdfs:label>KOGL Type 1</rdfs:label>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+</rdf:Description> 
+
+<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type2">
+    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
+    <rdfs:label>공공누리 제2유형</rdfs:label>
+    <rdfs:label>KOGL Type 2</rdfs:label>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+</rdf:Description> 
+
+<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type3">
+    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
+    <rdfs:label>공공누리 제3유형</rdfs:label>
+    <rdfs:label>KOGL Type 3</rdfs:label>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+</rdf:Description> 
+
+<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type4">
+    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
+    <rdfs:label>공공누리 제4유형</rdfs:label>
+    <rdfs:label>KOGL Type 4</rdfs:label>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+    <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+</rdf:Description> 
+
+</rdf:RDF>

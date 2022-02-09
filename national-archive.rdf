@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:schema="http://schema.org/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170946">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170946">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>4회 돌아가신 할머니를 위한 추모회 및 2000년 일본군 성노예전범여성국제접정 최종판결 보고대회 참석에 관한 건</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>일반문서</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170946">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>문서류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170946">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406235473&amp;rc_ritem_no=000000000027&amp;isContents=Y</schema:sameAs>
+		<schema:identifier>DA1170946</schema:identifier>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/26b3a3854b30fb0b03e9e2beda718139">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부 권익증진국 권익기획과</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170946">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/26b3a3854b30fb0b03e9e2beda718139" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170946">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-0</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170976">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170976">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>위안부 책임. 배상인정 대일 압박해야 (유엔특별보고관)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>일반문서</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170976">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>문서류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170976">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406235503&amp;rc_ritem_no=000000000004&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201406235503&amp;dsid=000000000004&amp;gubun=search</schema:mainEntityOfPage>
+		<schema:identifier>DA1170976</schema:identifier>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/26b3a3854b30fb0b03e9e2beda718139">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부 권익증진국 권익기획과</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170976">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/26b3a3854b30fb0b03e9e2beda718139" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170976">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-1</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170979">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170979">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>일본군‘위안부’  관련 사업 추진현황 및 계획</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>일반문서</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170979">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>문서류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170979">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406235506&amp;rc_ritem_no=000000000021&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201406235506&amp;dsid=000000000021&amp;gubun=search</schema:mainEntityOfPage>
+		<schema:identifier>DA1170979</schema:identifier>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/26b3a3854b30fb0b03e9e2beda718139">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부 권익증진국 권익기획과</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170979">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/26b3a3854b30fb0b03e9e2beda718139" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DA1170979">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-2</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>일본군 '위안부' 관련 국제기구 권고 자료집</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=200041124506&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/b3bba3a4c216d89ca8a2131390f0ff37">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>부산 역사기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/b3bba3a4c216d89ca8a2131390f0ff37" />
+		<schema:identifier>C14M21576</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">321</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-12-29</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/a3786d7886ef92b032df8b0b78fc215c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/a3786d7886ef92b032df8b0b78fc215c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M21576">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-3</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0198472">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0198472">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>일제하일본군위안부에대한생활안정지원법시행령(대통령령제13938호)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>일반문서</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0198472">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>문서류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0198472">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=200301063184&amp;rc_ritem_no=000000000003&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=200301063184&amp;dsid=000000000003&amp;gubun=search</schema:mainEntityOfPage>
+		<schema:identifier>BA0198472</schema:identifier>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/230ae5f3efa9faccca62db6810455a71">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>총무처 법무담당관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0198472">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/230ae5f3efa9faccca62db6810455a71" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0198472">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-6</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0673696">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0673696">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>일제하 일본군위안부 지원금 지급계획</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>일반문서</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0673696">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>문서류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/231183f0ad793f8aea39b1aa50393405" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0673696">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Paper" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=200302854704&amp;rc_ritem_no=000000000027&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=200302854704&amp;dsid=000000000027&amp;gubun=search</schema:mainEntityOfPage>
+		<schema:identifier>BA0673696</schema:identifier>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ff0405eb6244e8e210897327a17aab76">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>행정자치부 의정관 의정담당관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0673696">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ff0405eb6244e8e210897327a17aab76" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/BA0673696">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-7</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M16124">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M16124">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+		<schema:name>하루가 천금이지...:일본군 '위안부' 할머니들의 포토다큐멘터리</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M16124">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=200041110691&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=200041110691&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/b3bba3a4c216d89ca8a2131390f0ff37">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>부산 역사기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M16124">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/b3bba3a4c216d89ca8a2131390f0ff37" />
+		<schema:identifier>C14M16124</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-12-31</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/a3786d7886ef92b032df8b0b78fc215c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M16124">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/a3786d7886ef92b032df8b0b78fc215c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/C14M16124">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-8</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>일본군 위안부 피해자 사이버역사관 추가설계를 위한 자료수집,조사,연구,정리(최종보고서)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=200700383827&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=200700383827&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/b3bba3a4c216d89ca8a2131390f0ff37">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>부산 역사기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/b3bba3a4c216d89ca8a2131390f0ff37" />
+		<schema:identifier>CM00006188</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">397</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-30</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/CM00006188">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-9</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업보고서 lll. 2012년 일본군 위안부 증언녹취록 피해자6인 증언자료(2)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684529&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025669</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">217</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025669">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-10</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업보고서 lll. 2012년 일본군 위안부 증언녹취록 피해자6인 증언자료(3)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684530&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025670</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">264</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025670">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-11</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<schema:identifier>DM00025668</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">235</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업보고서 lll. 2012년 일본군 위안부 증언녹취록 피해자6인 증언자료(1)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684528&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025668">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-12</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업 보고서 ll . 일본군 위안부 피해자 관련 사료 분류별 목록집 (3)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684527&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201305684527&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025667</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">142</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025667">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-13</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업 보고서 ll . 일본군 위안부 피해자 관련 사료 분류별 목록집(2)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684526&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201305684526&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025666</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">374</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025666">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-14</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사·관리 사업보고서 l . 일본군 위안부 피해자 관련 사료 통합 목록집(1)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684523&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201305684523&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025663</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">414</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025663">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-15</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업보고서 l . 일본군 위안부 피해자 관련 사료 통합 목록집(2)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684524&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201305684524&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025664</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">810</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025664">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-16</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>여성가족부 2012년 일본군 위안부 피해자 관련 사료조사.관리 사업보고서 ll . 일본군 위안부 피해자 관련 사료 분류별 목록집(1)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201305684525&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201305684525&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00025665</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">184</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00025665">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-17</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅱ. 일본군 위안부 피해자 관련 사료 체계적 분류집</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336188&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201406336188&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039374</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">303</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039374">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-18</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅲ. 일본 국회의사록 중 위안부 관련자료 발췌:  2003-2013년</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336189&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201406336189&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039375</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">519</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039375">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-19</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039378">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039378">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>2013년 일본군위안부 피해자 관련 사료조사 ·수집 및 체계적 분류사업 결과보고서</schema:name>
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039378">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336192&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039378">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039378</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">131</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039378">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039378">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-20</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅵ. 2013년 일본군 위안부 증언녹취록 사업 피해자14인 증언자료(5)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336186&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039372</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">383</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039372">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-21</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅰ. 일본군 위안부 피해자 관련 사료 추가 목록집</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336187&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+		<schema:mainEntityOfPage rdf:datatype="https://schema.org/URL">http://theme.archives.go.kr/viewer/common/archWebViewer.do?bsid=201406336187&amp;gubun=search</schema:mainEntityOfPage>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039373</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">734</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039373">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-22</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅵ. 2013년 일본군 위안부 증언녹취록 사업 피해자14인 증언자료(3)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336184&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039370</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">395</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039370">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-23</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅵ. 2013년 일본군 위안부 증언녹취록 사업 피해자14인 증언자료(2)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336183&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039369</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">261</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039369">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-24</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅵ. 2013년 일본군 위안부 증언녹취록 사업 피해자14인 증언자료(1)</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336182&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039368</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">256</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039368">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-25</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<rdf:type rdf:resource="http://schema.org/ArchiveComponent" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0">
+		<rdf:type rdf:resource="http://schema.org/ArchiveOrganization" />
+		<rdfs:label>국가기록원</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<schema:holdingArchive rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/ed729fdf1298216c9bcb993d0be1a4c0" />
+		<schema:name>Ⅵ. 2013년 일본군 위안부 증언녹취록 사업 피해자14인 증언자료(4) 김경순, 김분선, 박필근, 송남이, 이기선</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>정부간행물</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<rico:hasDocumentaryFormType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/Format/Book">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+		<rdfs:label>도서/간행물류</rdfs:label>
+		<skos:narrower rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/40e706019cb6f78d87a7b13d28b16251" />
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<rico:hasContentOfType rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/Format/Book" />
+		<schema:sameAs rdf:datatype="https://schema.org/URL">http://www.archives.go.kr/next/search/showDetailPopup.do?rc_code=1310377&amp;rc_rfile_no=201406336185&amp;rc_ritem_no=000000000001&amp;isContents=Y</schema:sameAs>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb">
+		<rdf:type rdf:resource="http://schema.org/Place" />
+		<rdfs:label>성남 나라기록관</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<schema:itemLocation rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/8b63070e0cc490220e3ceaa8195abcbb" />
+		<schema:identifier>DM00039371</schema:identifier>
+		<schema:numberOfPages rdf:datatype="http://www.w3.org/2001/XMLSchema#int">466</schema:numberOfPages>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-28</schema:datePublished>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c">
+		<rdf:type rdf:resource="http://schema.org/Organization" />
+		<rdfs:label>여성가족부</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<schema:creator rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/fc6ecbb6dc0458229a7258b83a72da1c" />
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-00-00</schema:dateCreated>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-woman/Collection">
+		<rdf:type rdf:resource="http://schema.org/Collection" />
+		<rdfs:label>일본군'위안부' 기록</rdfs:label>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/DM00039371">
+		<schema:isPartOf rdf:resource="http://hike.cau.ac.kr/graph/comfort-woman/Collection" />
+		<rdfs:label>NKA-26</rdfs:label>
+		<cc:license rdf:resource="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1" />
+	</rdf:Description>
+
+</rdf:RDF>
