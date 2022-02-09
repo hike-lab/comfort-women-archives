@@ -1,44 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-	xmlns:cc="http://creativecommons.org/ns#"
->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
 
-<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1">
-    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
-    <rdfs:label>공공누리 제1유형</rdfs:label>
-    <rdfs:label>KOGL Type 1</rdfs:label>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-</rdf:Description> 
+    <rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type1">
+        <rdf:type rdf:resource="http://creativecommons.org/ns#License" />
+        <rdfs:label xml:lang="ko">공공누리 제1유형</rdfs:label>
+        <rdfs:label xml:lang="en">KOGL Type 1</rdfs:label>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <rdfs:seeAlso rdf:resource="https://www.kogl.or.kr/info/license.do#05-tab" />
+        <rdfs:comment xml:lang="en">The user can freely use the public work without fee, and can change it to create secondary work.</rdfs:comment>
+        <rdfs:comment xml:lange="ko">출처표시, 상업적, 비상업적 이용가능, 변형 등 2차적 저작물 작성 가능</rdfs:comment>
+    </rdf:Description>
 
-<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type2">
-    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
-    <rdfs:label>공공누리 제2유형</rdfs:label>
-    <rdfs:label>KOGL Type 2</rdfs:label>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-    <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
-</rdf:Description> 
+    <rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type2">
+        <rdf:type rdf:resource="http://creativecommons.org/ns#License" />
+        <rdfs:label xml:lang="ko">공공누리 제2유형</rdfs:label>
+        <rdfs:label xml:lang="en">KOGL Type 2</rdfs:label>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <rdfs:seeAlso rdf:resource="https://www.kogl.or.kr/info/license.do#05-tab" />
+        <rdfs:comment xml:lang="en">The user can freely use the public work without fee, and can change it to create secondary work, but it is not permitted to use for commercial purpose.</rdfs:comment>
+        <rdfs:comment xml:lange="ko">출처표시, 비상업적 이용만 가능, 변형 등 2차적 저작물 작성 가능</rdfs:comment>
+    </rdf:Description>
 
-<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type3">
-    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
-    <rdfs:label>공공누리 제3유형</rdfs:label>
-    <rdfs:label>KOGL Type 3</rdfs:label>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-    <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-</rdf:Description> 
+    <rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type3">
+        <rdf:type rdf:resource="http://creativecommons.org/ns#License" />
+        <rdfs:label xml:lang="ko">공공누리 제3유형</rdfs:label>
+        <rdfs:label xml:lang="en">KOGL Type 3</rdfs:label>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <rdfs:seeAlso rdf:resource="https://www.kogl.or.kr/info/license.do#05-tab" />
+        <rdfs:comment xml:lang="en">The user can freely use the public work regardless of its commercial use without fee, but it is not permitted to change or modify the contents of public work.</rdfs:comment>
+        <rdfs:comment xml:lange="ko">출처표시, 상업적, 비상업적 이용가능, 변형 등 2차적 저작물 작성 금지</rdfs:comment>
+    </rdf:Description>
 
-<rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type4">
-    <rdf:type rdf:resource="http://creativecommons.org/ns#License"/>
-    <rdfs:label>공공누리 제4유형</rdfs:label>
-    <rdfs:label>KOGL Type 4</rdfs:label>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-    <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
-    <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-</rdf:Description> 
+    <rdf:Description rdf:about="http://hike.cau.ac.kr/graph/comfort-women/license/kogl/type4">
+        <rdf:type rdf:resource="http://creativecommons.org/ns#License" />
+        <rdfs:label xml:lang="ko">공공누리 제4유형</rdfs:label>
+        <rdfs:label xml:lang="en">KOGL Type 4</rdfs:label>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <rdfs:seeAlso rdf:resource="https://www.kogl.or.kr/info/license.do#05-tab" />
+        <rdfs:comment xml:lang="en">The user can freely use the public work without fee, but it is not permitted to use for commercial purpose, or to change or modify the contents of public work.</rdfs:comment>
+        <rdfs:comment xml:lange="ko">출처표시, 비상업적 이용만 가능, 변형 등 2차적 저작물 작성 금지</rdfs:comment>
+    </rdf:Description>
 
 </rdf:RDF>
