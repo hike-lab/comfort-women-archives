@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:cc="http://creativecommons.org/ns#">
+
+    <rdf:Description rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <rdf:type rdf:resource="http://creativecommons.org/ns#License" />
+        <rdfs:label>CC BY-NC-ND 4.0</rdfs:label>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+    </rdf:Description>
+
+</rdf:RDF>
